@@ -3,7 +3,9 @@
 ## About me
 I am interested in materials science.
 
-[Here](https://yu9824.github.io/portfolio/) is my portfolio.
+[Here](https://yu9824.github.io/portfolio/) is my portfolio. (Under construction　/　incomplete)
+
+[My technical note](https://yu9824.github.io) (Japanese).
 
 ## Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yu9824&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
