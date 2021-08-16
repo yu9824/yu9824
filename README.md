@@ -3,7 +3,7 @@
 ## About me
 I am interested in materials science.
 
-[Here](https://yu9824.github.io/portfolio/) is my portfolio. (Under construction　/　incomplete)
+[Here](https://yu9824.github.io/portfolio/) is my portfolio. (Under construction/incomplete)
 
 [My technical note](https://yu9824.github.io) (Japanese).
 
