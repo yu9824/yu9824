@@ -1,13 +1,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/yu_9824?style=social)](https://twitter.com/intent/follow?ref_src=twsrc%5Etfw&region=follow_link&screen_name=yu_9824&tw_p=followbutton)
 [![GitHub followers](https://img.shields.io/github/followers/yu9824?style=social)](https://github.com/yu9824)
 
-[![Github Visitors](https://badges.pufler.dev/visits/yu9824/yu9824?style=flat-square&color=black&logo=github)](https://github.com/yu9824)
 ## About me
 I am interested in materials science.
 
-[Here](https://yu9824.github.io/portfolio/) is my portfolio. (Under construction/incomplete)
-
-[My technical note](https://note.yu9824.com/) (Japanese).
+- [My technical note](https://note.yu9824.com/) (in Japanese).
 
 ## Github Stats
 <div align="center">
